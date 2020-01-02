@@ -16,4 +16,13 @@ readydocker.sh && docker-compose up -d
 
 ## Install
 
-Place `readydocker` script in a folder on your $PATH.
+### Homebrew
+
+```bash
+brew tap camspiers/taps
+brew install readydocker
+```
+
+### Manual
+
+Download `readydocker.sh`, make it executable and ensure it is on your $PATH.
