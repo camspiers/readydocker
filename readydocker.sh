@@ -11,7 +11,7 @@
 #
 # Example Usage:
 #
-# readydocker && docker-compose up -d
+# readydocker.sh && docker-compose up -d
 #
 # Expectations:
 #

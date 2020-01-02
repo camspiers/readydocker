@@ -5,7 +5,7 @@ Ready Docker is a macOS tool for starting then waiting for Docker.app to be read
 ## Example Usage:
 
 ```bash
-readydocker && docker-compose up -d
+readydocker.sh && docker-compose up -d
 ```
 
 ## Expectations
